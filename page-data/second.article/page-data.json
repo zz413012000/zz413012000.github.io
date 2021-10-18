@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/second.article/",
+    "result": {"data":{"markdownRemark":{"html":"<p>樓上今天也在沒有裝潢。</p>\n<p>今天是安靜的一天。</p>","frontmatter":{"title":"我的第二篇文章"}}},"pageContext":{"slug":"/second.article/"}},
+    "staticQueryHashes": []}

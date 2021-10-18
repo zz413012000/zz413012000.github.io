@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[501],{262:function(t,l,e){e.r(l);e(7294);var a=e(1039),u=e(1633),i=e(7918);l.default=function(){return(0,i.tZ)(a.Z,null,(0,i.tZ)(u.Z,{title:data.site.siteMetadata.title}),(0,i.tZ)("div",null,(0,i.tZ)("b",null,"email:"),(0,i.tZ)("i",null,"zz413012000@gmail.com")))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-235a5418311678fd7f30.js.map

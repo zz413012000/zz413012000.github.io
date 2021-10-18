@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-contact-js",
+    "path": "/contact/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"id":"247a374e-1234-5c12-a818-05357b53aac9","frontmatter":{"title":"我的第一篇文章","date":"2021/10/15"},"fields":{"slug":"/first.article/"},"excerpt":"樓上今天也在裝潢。 今天也是吵鬧的一天。"}},{"node":{"id":"4b67e0d8-962f-5a8b-b66b-44bc4b1562f2","frontmatter":{"title":"我的第二篇文章","date":"2021/10/16"},"fields":{"slug":"/second.article/"},"excerpt":"樓上今天也在沒有裝潢。 今天是安靜的一天。"}}]},"site":{"siteMetadata":{"title":"夯特's Blog","description":"插畫家寫程式的部落格"}}},"pageContext":{}},
+    "staticQueryHashes": ["63159454"]}
